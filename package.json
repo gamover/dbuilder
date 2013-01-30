@@ -1,0 +1,16 @@
+{
+    "author": "G@mOBEP <rusmiran@gmail.com>",
+    "name": "dbuilder",
+    "description": "directory structure builder",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gamover/dbuilder.git"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
